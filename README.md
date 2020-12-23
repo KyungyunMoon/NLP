@@ -1,6 +1,7 @@
-# NLP project 
-# 고려대학교 자연처리과제
-# 문경윤
+# NLP project with BERT
+
+고려대학교 자연처리과제
+문경윤
 
 
 NLP Project는 총 2개의 소스로 구성
